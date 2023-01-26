@@ -1,0 +1,1 @@
+[{"model": "products.productcategory", "pk": 1, "fields": {"name": "тХм╤Д╤Е╤Ж╤Д╤", "description": ""}}, {"model": "products.productcategory", "pk": 2, "fields": {"name": "тХм╤Б╤Ф╤ВтДЦ", "description": ""}}, {"model": "products.productcategory", "pk": 3, "fields": {"name": "тФФ╤К╤С╤Е╤С╤С╤Ф╤╨БтИЪ", "description": ""}}]
